@@ -14,3 +14,4 @@ server.listen(port, hostname, () => {
 });
 
 console.log("N");
+console.log("U");
